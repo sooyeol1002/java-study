@@ -7,5 +7,6 @@ public class Main {
 
         thread1.start(); // 스레드 시작
         thread2.start(); // 다른 스레드 시작 1
+        //test
     }
 }
